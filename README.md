@@ -1,3 +1,4 @@
+![logo](https://github.com/sreenath789/sreenath789/blob/main/gitbanner.jpg)
 <h1 align="center">Hi 👋, I'm Sreenath Golla</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhyNmVyNHNkbDFobW8wZ3lnMDF0ZjZ1OHZlOGgwNjdkdzZnc3NkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
