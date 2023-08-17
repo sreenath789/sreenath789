@@ -4,12 +4,16 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhyNmVyNHNkbDFobW8wZ3lnMDF0ZjZ1OHZlOGgwNjdkdzZnc3NkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenath789&label=Profile%20views&color=0e75b6&style=flat" alt="sreenath789" /> </p>
+<H1>About Me</h1>
+<h4>Greetings! I'm a highly motivated and aspiring software developer with a strong foundation in Java programming,
+ object-oriented design principles, and web application development using Spring Boot,
+ Spring MVC, and Hibernate. My enthusiasm for creating efficient and elegant solutions drives me to continuously 
+expand my skill set and contribute effectively to the world of software development.</h4>
 
 - 🔭 I have worked on project [Blogging Platform API](https://github.com/sreenath789/blogging-project-aws-deploy/tree/main/blogging-project)
 
-- 🌱 I’m currently learning **Full stack web development**
-
 - 🔭 I have worked on project [Doctor Appointment API](https://github.com/sreenath789/doc-aws-deploy/tree/main/Doctor-App)
+- 🌱 I’m currently learning **Full stack web development**
 
 - 💬 Ask me about **DSA(JAVA) | OOPs | Spring boot | Hibernate | MySQL | Git |**
 
